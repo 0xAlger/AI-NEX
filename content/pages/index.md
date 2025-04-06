@@ -8,10 +8,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: 掌握了核武器，却还不知道炸哪里
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: |
+      现在老墨在后台直接可视化编辑。
     actions:
       - label: 开始吧
         altText: ''
