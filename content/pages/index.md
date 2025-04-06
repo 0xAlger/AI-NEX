@@ -7,7 +7,7 @@ sections:
       text: PG NEX + AI
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: 掌握了核武器，却还不知道炸哪里
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
