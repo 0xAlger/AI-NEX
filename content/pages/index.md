@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: 未来已来，眼瞎者看不到
       color: text-primary
       type: Badge
     elementId: ''
