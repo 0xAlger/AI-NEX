@@ -1,5 +1,5 @@
 ---
-title: Home
+title: PG NEX
 slug: /
 sections:
   - type: GenericSection
